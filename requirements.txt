@@ -1,0 +1,1 @@
+# Pas nécessaire ici (modules standard), mais fourni pour structure future
