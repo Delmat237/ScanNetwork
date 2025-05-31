@@ -36,10 +36,26 @@ Modifiable dans le fichier `suspicious_ports.txt`.
 
 ## 📦 Dépendances
 
-Aucune dépendance externe ! Python standard.
+Tkinter
 
-## ✅ A faire (si tu veux aller plus loin)
 
-- Interface Streamlit ou Tkinter
-- Scan UDP (avancé)
-- Intégration avec Nmap ou Shodan
+## 👤 Auteur
+
+🤵 Nom : Leonel Azangue
+
+📨 Email : azangueleonel9@gmail.com
+
+GitHub : @Delmat237
+
+LinkedIn : leonel-azangue
+
+WhatsApp : +237 657 450 314
+
+## 📄 Licence
+
+Ce projet est sous licence MIT — voir le fichier LICENSE pour plus de détails.
+
+## 🤝 Contribuer
+
+Les contributions sont les bienvenues !
+N'hésitez pas à forker le dépôt, créer une branche, proposer une fonctionnalité ou corriger un bug via une Pull Request.
